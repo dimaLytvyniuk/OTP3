@@ -1,0 +1,6 @@
+F:\C\DIMA\Univer\OTP3\Laba2\Laba2.MyCollections\bin\Debug\Laba2.MyCollections.dll
+F:\C\DIMA\Univer\OTP3\Laba2\Laba2.MyCollections\bin\Debug\Laba2.MyCollections.pdb
+F:\C\DIMA\Univer\OTP3\Laba2\Laba2.MyCollections\obj\Debug\Laba2.MyCollections.csprojResolveAssemblyReference.cache
+F:\C\DIMA\Univer\OTP3\Laba2\Laba2.MyCollections\obj\Debug\Laba2.MyCollections.csproj.CoreCompileInputs.cache
+F:\C\DIMA\Univer\OTP3\Laba2\Laba2.MyCollections\obj\Debug\Laba2.MyCollections.dll
+F:\C\DIMA\Univer\OTP3\Laba2\Laba2.MyCollections\obj\Debug\Laba2.MyCollections.pdb
