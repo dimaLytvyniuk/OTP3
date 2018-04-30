@@ -1,0 +1,15 @@
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.Web.deps.json
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.Web.runtimeconfig.json
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.Web.runtimeconfig.dev.json
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.Web.dll
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.Web.pdb
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\obj\Debug\netcoreapp2.0\Laba_4.Web.csprojResolveAssemblyReference.cache
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\obj\Debug\netcoreapp2.0\Laba_4.Web.csproj.CoreCompileInputs.cache
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\obj\Debug\netcoreapp2.0\Laba_4.Web.AssemblyInfoInputs.cache
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\obj\Debug\netcoreapp2.0\Laba_4.Web.AssemblyInfo.cs
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\obj\Debug\netcoreapp2.0\Laba_4.Web.dll
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\obj\Debug\netcoreapp2.0\Laba_4.Web.pdb
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.BLL.dll
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.BLL.pdb
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.DAL.dll
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.Web\bin\Debug\netcoreapp2.0\Laba_4.DAL.pdb
