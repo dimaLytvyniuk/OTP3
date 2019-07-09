@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Laba2/.vs/Laba2/v15
+/.vs
+/Laba2/Laba2.MyCollections/obj/Release
+/Laba2/Laba3.MyCollections.Tests/obj/Release
+/Laba_4/.vs/Laba_4/v15/Server/sqlite3
+/Laba_4/.vs/Laba_4/v15
+/Laba_4/Laba_4/bin/Debug/netcoreapp2.0
+/Laba_4/Laba_4/obj/Debug/netcoreapp2.0
+/Laba_4/Laba_4/obj/Release/netcoreapp2.0
+/Laba_4/Laba_4/obj
+/Laba_4/Laba_4/Properties

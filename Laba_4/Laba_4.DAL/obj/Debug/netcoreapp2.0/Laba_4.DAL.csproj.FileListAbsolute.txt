@@ -1,0 +1,11 @@
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\bin\Debug\netcoreapp2.0\Laba_4.DAL.deps.json
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\bin\Debug\netcoreapp2.0\Laba_4.DAL.dll
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\bin\Debug\netcoreapp2.0\Laba_4.DAL.pdb
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\obj\Debug\netcoreapp2.0\Laba_4.DAL.csprojResolveAssemblyReference.cache
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\obj\Debug\netcoreapp2.0\Laba_4.DAL.csproj.CoreCompileInputs.cache
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\obj\Debug\netcoreapp2.0\Laba_4.DAL.AssemblyInfoInputs.cache
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\obj\Debug\netcoreapp2.0\Laba_4.DAL.AssemblyInfo.cs
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\obj\Debug\netcoreapp2.0\Laba_4.DAL.dll
+F:\C\DIMA\Univer\OTP3\Laba_4\Laba_4.DAL\obj\Debug\netcoreapp2.0\Laba_4.DAL.pdb
